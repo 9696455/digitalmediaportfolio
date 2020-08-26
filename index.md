@@ -1,5 +1,7 @@
 ## Welcome to Lucas's Digital Media Portfolio
 
+![color swatch](https://github.com/9696455/digitalmediaportfolio/blob/gh-pages/raster/colorSwatch.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/9696455/digitalmediaportfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
