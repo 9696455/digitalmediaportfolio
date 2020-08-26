@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Lucas's Digital Media Portfolio
 
 You can use the [editor on GitHub](https://github.com/9696455/digitalmediaportfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
